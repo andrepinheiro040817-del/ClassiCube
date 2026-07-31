@@ -33,7 +33,7 @@ ClassiCube aims to replicate the 2009 Minecraft Classic client while offering **
 ClassiCube strives to replicate the original Minecraft Classic experience by **strictly adhering to [clean room](https://en.wikipedia.org/wiki/Clean_room_design) reverse engineering approach**.
 
 If you're interested in documenting or verifying the behaviour of the original Minecraft Classic, please get in contact on the [ClassiCube Discord](https://classicube.net/discord)
-
+.
 
 # How to play
 Initially, you will need to run ClassiCube.exe to download the required assets from minecraft.net and classicube.net.<br>
