@@ -506,4 +506,4 @@ Further information (e.g. style) for ClassiCube's source code can be found in th
 ClassiCube uses sounds from [Freesound.org](https://freesound.org)<br>
 Full credits are listed in [doc/sound-credits.md](doc/sound-credits.md)
 
-
+.
